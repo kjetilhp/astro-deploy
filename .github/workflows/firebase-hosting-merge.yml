@@ -19,4 +19,4 @@ jobs:
           channelId: live
           projectId: kman-astro-deploy
         env:
-          FIREBASE_CLI_EXPERMENTS: webframeworks
+          FIREBASE_CLI_EXPERIMENTS: webframeworks
